@@ -1,4 +1,4 @@
-# chatkit-cli-app
+# Chatkit-cli-app
 A command line chat application done with Pusher's Chatkit
 
 !['chat-sample'](img/chat-sample.png?raw=true)
@@ -25,3 +25,5 @@ Open two different terminal windows and run:
 ```
 node app.js
 ```
+### Acknowledgments
+Inspired by Alex Booker's (@bookercodes) tutorial.
