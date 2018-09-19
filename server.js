@@ -7,7 +7,7 @@ const Chatkit = require("@pusher/chatkit-server"); // chatkit server SDK
 // Init app
 const app = express();
 
-// Chatkit Server SDK
+// Chatkit Server SDK.
 const chatkit = new Chatkit.default({
     instanceLocator: 'v1:us1:8f3e62b9-afbc-48dc-b54f-84574a809062',
     key: '665080cd-601d-4f75-9538-e51268bd8950:3lQD1uX0uG29JB86XdvNmrMi3pu4hySYq8+jPIuWtlA='
