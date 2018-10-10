@@ -1,4 +1,7 @@
 # Chatkit-cli-app
+
+![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
+
 A command line chat application done with Pusher's Chatkit
 
 !['chat-sample'](img/chat-sample.png?raw=true)
