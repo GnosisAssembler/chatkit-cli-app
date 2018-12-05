@@ -2,7 +2,7 @@
 
 ![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
 
-A command line chat application done with Pusher's Chatkit
+A command line chat application built with Pusher's Chatkit
 
 !['chat-sample'](img/chat-sample.png?raw=true)
 
@@ -43,7 +43,7 @@ npm install
 node server.js
 ```
 
-#### Running the chat terminals 
+#### Running the chat instances
 Open two different terminal windows and run:
 ```
 node app.js
