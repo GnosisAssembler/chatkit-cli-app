@@ -2,7 +2,7 @@
 
 ![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
-> A command line chat application using [Pusher's Chatkit0](https://pusher.com/chatkit)
+> A command line chat application using [Pusher's Chatkit](https://pusher.com/chatkit)
 
 !['chat-sample'](img/chat-sample.png?raw=true)
 
