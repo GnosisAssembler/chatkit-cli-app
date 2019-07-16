@@ -1,6 +1,6 @@
 # chatkit-cli-app
 
-![work in_progress](https://img.shields.io/badge/work-in_progress-yellow.svg?style=flat-square)
+![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
 > A command line chat application using [Pusher's Chatkit0](https://pusher.com/chatkit)
 
